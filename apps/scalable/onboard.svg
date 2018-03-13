@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg153"
+   sodipodi:docname="onboard.svg"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
+  <metadata
+     id="metadata157">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="740"
+     id="namedview155"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-9.3559323"
+     inkscape:cy="22.169492"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg153" />
+  <defs
+     id="defs17">
+    <linearGradient
+       id="linearGradient3764"
+       x1="1"
+       x2="47"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
+      <stop
+         stop-color="#d1d1d1"
+         stop-opacity="1"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#dbdbdb"
+         stop-opacity="1"
+         id="stop4" />
+    </linearGradient>
+    <clipPath
+       id="clipPath-861610600">
+      <g
+         transform="translate(0,-1004.3622)"
+         id="g9">
+        <path
+           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
+           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
+           fill="#1890d0"
+           id="path7" />
+      </g>
+    </clipPath>
+    <clipPath
+       id="clipPath-870218198">
+      <g
+         transform="translate(0,-1004.3622)"
+         id="g14">
+        <path
+           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
+           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
+           fill="#1890d0"
+           id="path12" />
+      </g>
+    </clipPath>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#008066;fill-opacity:1"
+     id="path27"
+     d="m 24,1.2033898 c 12.703,0 23,10.2970002 23,23.0000002 0,12.703 -10.297,23 -23,23 -12.703,0 -22.9999998,-10.297 -22.9999998,-23 C 1.0000002,11.50039 11.297,1.2033898 24,1.2033898 Z" />
+  <g
+     id="g31" />
+  <g
+     id="layer1"
+     transform="matrix(0.43391523,0,0,0.39320387,11.185938,-195.13789)">
+    <rect
+       id="rect1307"
+       style="fill:#e5b300;fill-opacity:0.76073997;stroke:#000000;stroke-width:0.61796999"
+       rx="3.0545001"
+       ry="3.0546"
+       height="25.855"
+       width="25.855"
+       y="530.91998"
+       x="2.309" />
+    <rect
+       id="rect2202"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.61796999"
+       rx="3.0545001"
+       ry="3.0546"
+       height="25.855"
+       width="25.855"
+       y="530.91998"
+       x="31.836" />
+    <rect
+       id="rect2208"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.61796999"
+       rx="3.0545001"
+       ry="3.0546"
+       height="25.855"
+       width="25.855"
+       y="560.45001"
+       x="2.309" />
+    <rect
+       id="rect2210"
+       style="fill:#008aff;stroke:#000000;stroke-width:0.61796999"
+       rx="3.0545001"
+       ry="3.0546"
+       height="25.855"
+       width="25.855"
+       y="560.45001"
+       x="31.836" />
+    <text
+       id="text4831"
+       style="font-size:14.6619997px;line-height:125%;font-family:'Bitstream Vera Sans';fill:#000000"
+       xml:space="preserve"
+       y="547.19318"
+       x="6.6545596"><tspan
+         id="tspan4833"
+         y="547.19318"
+         x="6.6545596">O</tspan></text>
+    <text
+       id="text4835"
+       style="font-size:14.6619997px;line-height:125%;font-family:'Bitstream Vera Sans';fill:#000000"
+       xml:space="preserve"
+       y="576.09399"
+       x="35.938938"><tspan
+         id="tspan4837"
+         y="576.09399"
+         x="35.938938">B</tspan></text>
+  </g>
+</svg>

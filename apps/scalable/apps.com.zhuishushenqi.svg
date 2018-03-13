@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg27"
+   sodipodi:docname="apps.com.zhuishushenqi.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="875"
+     id="namedview29"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg27" />
+  <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Artboard 2</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs19">
+    <filter
+       x="-50%"
+       y="-50%"
+       width="200%"
+       height="200%"
+       filterUnits="objectBoundingBox"
+       id="filter-1">
+      <feOffset
+         dx="0"
+         dy="1"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset6" />
+      <feGaussianBlur
+         stdDeviation="0.5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur8" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.209417459 0"
+         in="shadowBlurOuter1"
+         type="matrix"
+         result="shadowMatrixOuter1"
+         id="feColorMatrix10" />
+      <feMerge
+         id="feMerge16">
+        <feMergeNode
+           in="shadowMatrixOuter1"
+           id="feMergeNode12" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode14" />
+      </feMerge>
+    </filter>
+  </defs>
+  <g
+     id="Page-1"
+     transform="matrix(1.0693206,0,0,1.0773514,-1.6382706,-2.0089755)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <g
+       id="Artboard-2">
+      <path
+         d="M 45,24 C 45,35.5976 35.5976,45 24,45 12.4024,45 3,35.5976 3,24 3,12.4024 12.4024,3 24,3 35.5976,3 45,12.4024 45,24"
+         id="Fill-1"
+         inkscape:connector-curvature="0"
+         style="fill:#bd2020;filter:url(#filter-1)" />
+      <path
+         d="m 34.082752,14.387796 -5.14496,-0.016 1.165551,-2.716506 -2.69917,-0.972181 -1.637639,3.688687 -1.052196,0.016 v 2.653829 h 6.698582 v 2.669831 l -8.010827,0.016 v -5.339663 l -2.667164,-0.016 -0.01067,17.343235 h 13.351824 l -0.01067,-8.006827 -7.998825,0.0093 -0.01067,2.665831 5.332995,-0.01067 v 2.676499 h -7.98682 V 22.39729 l 10.664656,-0.03334 z"
+         id="Fill-3"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         d="m 14.997459,20.134201 c 1.28824,0 2.333769,-1.045528 2.333769,-2.333768 0,-1.288241 -1.045529,-2.333769 -2.333769,-2.333769 -1.28824,0 -2.333768,1.045528 -2.333768,2.333769 0,1.28824 1.045528,2.333768 2.333768,2.333768"
+         id="Fill-5"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         d="m 26.28343,37.93072 1.496279,-3.587336 -9.683139,-1.286906 1.238898,-5.331661 -2.296428,-0.548102 1.917691,-4.794228 -7.516068,-1.390926 -0.04934,3.204598 3.392633,0.868162 -1.696317,4.00608 2.289761,1.265569 -1.320246,4.094097 z"
+         id="Fill-7"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

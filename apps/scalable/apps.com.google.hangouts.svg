@@ -1,0 +1,2575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   viewBox="0 0 13.546667 13.546667"
+   height="48"
+   version="1.1"
+   id="svg779"
+   sodipodi:docname="apps.com.google.hangouts.svg"
+   inkscape:version="0.92.0 r15299">
+  <metadata
+     id="metadata783">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview781"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="693"
+     inkscape:window-y="266"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg779" />
+  <defs
+     id="defs749">
+    <clipPath
+       id="clipPath4">
+      <path
+         d="m 489.22 197.28 c -2.603 0 -3.953 -1.367 -3.953 -3.971 l 0 0 0 -1.034 c 0 -2.604 1.35 -3.971 3.953 -3.971 l 0 0 1.035 0 c 2.62 0 3.97 1.367 3.97 3.971 l 0 0 0 1.034 c 0 2.604 -1.35 3.971 -3.97 3.971 l 0 0 -1.035 0 z"
+         id="path2" />
+    </clipPath>
+    <linearGradient
+       id="1">
+      <stop
+         stop-color="#f96963"
+         stop-opacity="1"
+         id="stop6" />
+      <stop
+         offset="1"
+         stop-color="#f96963"
+         stop-opacity="1"
+         id="stop8" />
+    </linearGradient>
+    <clipPath
+       id="clipPath13">
+      <rect
+         y="223"
+         x="307"
+         height="42"
+         width="42"
+         transform="matrix(0,1,-1,0,0,0)"
+         fill="url(#2)"
+         color="#bebebe"
+         rx="9"
+         id="rect11" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#1"
+       id="2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.175,0,0,0.175,302.79999,215.99997)"
+       y1="280"
+       x2="0"
+       y2="40" />
+    <clipPath
+       id="clipPath18">
+      <rect
+         y="85"
+         x="433"
+         height="22"
+         width="22"
+         fill="url(#3)"
+         color="#bebebe"
+         rx="4"
+         id="rect16" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#1"
+       id="3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0875,0,0,0.0875,430.9,81.499996)"
+       y1="291.43"
+       x2="0"
+       y2="40" />
+    <clipPath
+       id="clipPath23">
+      <rect
+         width="30"
+         height="30"
+         x="433"
+         y="37"
+         fill="url(#4)"
+         color="#bebebe"
+         rx="6"
+         id="rect21" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#1"
+       id="4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.11931818,0,0,0.11931818,430.13636,32.227267)"
+       y1="291.43"
+       x2="0"
+       y2="40" />
+    <clipPath
+       id="clipPath28">
+      <rect
+         width="16"
+         height="16"
+         x="304"
+         y="212"
+         transform="matrix(0,1,-1,0,0,0)"
+         fill="url(#5)"
+         color="#bebebe"
+         rx="3"
+         id="rect26" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#1"
+       id="5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06666667,0,0,0.06666667,302.4,209.33333)"
+       y1="280"
+       x2="0"
+       y2="40" />
+    <clipPath
+       id="clipPath33">
+      <rect
+         y="46"
+         x="34"
+         height="220"
+         width="220"
+         fill="url(#6)"
+         color="#bebebe"
+         rx="50"
+         id="rect31" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#1"
+       id="6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-4)"
+       y1="280"
+       x2="0"
+       y2="40" />
+    <clipPath
+       id="clipPath38">
+      <rect
+         y="142"
+         x="290"
+         height="60"
+         width="60"
+         fill="url(#7)"
+         color="#bebebe"
+         rx="12.5"
+         id="rect36" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#1"
+       id="7"
+       gradientUnits="userSpaceOnUse"
+       y1="204"
+       x2="0"
+       y2="140" />
+    <clipPath
+       id="clipPath43">
+      <rect
+         width="88"
+         height="88"
+         x="292"
+         y="32"
+         fill="url(#8)"
+         color="#bebebe"
+         rx="18"
+         id="rect41" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#1"
+       id="8"
+       gradientUnits="userSpaceOnUse"
+       y1="124"
+       x2="0"
+       y2="28" />
+    <clipPath
+       id="clipPath48">
+      <rect
+         y="101"
+         x="417"
+         height="22"
+         width="22"
+         fill="url(#9)"
+         color="#bebebe"
+         rx="5"
+         id="rect46" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#1"
+       id="9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0875,0,0,0.0875,414.9,97.5)"
+       y1="302.86"
+       x2="0"
+       y2="28.571" />
+    <clipPath
+       id="clipPath53">
+      <rect
+         width="30"
+         height="30"
+         x="417"
+         y="53"
+         fill="url(#A)"
+         color="#bebebe"
+         rx="7"
+         id="rect51" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#1"
+       id="A"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.11931818,0,0,0.11931818,414.13636,48.22727)"
+       y1="299.81"
+       x2="0"
+       y2="31.619" />
+    <use
+       id="B"
+       opacity="0.2"
+       fill="#fff"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath59">
+      <use
+         xlink:href="#B"
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         id="use57" />
+    </clipPath>
+    <clipPath
+       id="clipPath63">
+      <use
+         xlink:href="#B"
+         id="use61" />
+    </clipPath>
+    <use
+       id="C"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath68">
+      <use
+         xlink:href="#C"
+         id="use66" />
+    </clipPath>
+    <clipPath
+       id="clipPath72">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#C"
+         id="use70" />
+    </clipPath>
+    <use
+       id="D"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath77">
+      <use
+         xlink:href="#D"
+         id="use75" />
+    </clipPath>
+    <clipPath
+       id="clipPath81">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#D"
+         id="use79" />
+    </clipPath>
+    <use
+       id="E"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath86">
+      <use
+         xlink:href="#E"
+         id="use84" />
+    </clipPath>
+    <clipPath
+       id="clipPath90">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#E"
+         id="use88" />
+    </clipPath>
+    <use
+       id="F"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath95">
+      <use
+         xlink:href="#F"
+         id="use93" />
+    </clipPath>
+    <clipPath
+       id="clipPath99">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#F"
+         id="use97" />
+    </clipPath>
+    <use
+       id="G"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath104">
+      <use
+         xlink:href="#G"
+         id="use102" />
+    </clipPath>
+    <clipPath
+       id="clipPath108">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#G"
+         id="use106" />
+    </clipPath>
+    <use
+       id="H"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath113">
+      <use
+         xlink:href="#H"
+         id="use111" />
+    </clipPath>
+    <clipPath
+       id="clipPath117">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#H"
+         id="use115" />
+    </clipPath>
+    <use
+       id="I"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath122">
+      <use
+         xlink:href="#I"
+         id="use120" />
+    </clipPath>
+    <clipPath
+       id="clipPath126">
+      <rect
+         y="223"
+         x="307"
+         height="42"
+         width="42"
+         transform="matrix(0,1,-1,0,0,0)"
+         fill="url(#2)"
+         color="#bebebe"
+         rx="9"
+         id="rect124" />
+    </clipPath>
+    <clipPath
+       id="clipPath130">
+      <rect
+         y="85"
+         x="433"
+         height="22"
+         width="22"
+         fill="url(#3)"
+         color="#bebebe"
+         rx="4"
+         id="rect128" />
+    </clipPath>
+    <clipPath
+       id="clipPath134">
+      <rect
+         width="30"
+         height="30"
+         x="433"
+         y="37"
+         fill="url(#4)"
+         color="#bebebe"
+         rx="6"
+         id="rect132" />
+    </clipPath>
+    <clipPath
+       id="clipPath138">
+      <rect
+         width="16"
+         height="16"
+         x="304"
+         y="212"
+         transform="matrix(0,1,-1,0,0,0)"
+         fill="url(#5)"
+         color="#bebebe"
+         rx="3"
+         id="rect136" />
+    </clipPath>
+    <clipPath
+       id="clipPath142">
+      <rect
+         y="46"
+         x="34"
+         height="220"
+         width="220"
+         fill="url(#6)"
+         color="#bebebe"
+         rx="50"
+         id="rect140" />
+    </clipPath>
+    <clipPath
+       id="clipPath146">
+      <rect
+         y="142"
+         x="290"
+         height="60"
+         width="60"
+         fill="url(#7)"
+         color="#bebebe"
+         rx="12.5"
+         id="rect144" />
+    </clipPath>
+    <clipPath
+       id="clipPath150">
+      <rect
+         width="88"
+         height="88"
+         x="292"
+         y="32"
+         fill="url(#8)"
+         color="#bebebe"
+         rx="18"
+         id="rect148" />
+    </clipPath>
+    <clipPath
+       id="clipPath154">
+      <rect
+         y="101"
+         x="417"
+         height="22"
+         width="22"
+         fill="url(#9)"
+         color="#bebebe"
+         rx="5"
+         id="rect152" />
+    </clipPath>
+    <clipPath
+       id="clipPath158">
+      <rect
+         width="30"
+         height="30"
+         x="417"
+         y="53"
+         fill="url(#A)"
+         color="#bebebe"
+         rx="7"
+         id="rect156" />
+    </clipPath>
+    <clipPath
+       id="clipPath162">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#I"
+         id="use160" />
+    </clipPath>
+    <use
+       id="J"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath167">
+      <use
+         xlink:href="#J"
+         id="use165" />
+    </clipPath>
+    <clipPath
+       id="clipPath171">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#J"
+         id="use169" />
+    </clipPath>
+    <use
+       id="K"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath176">
+      <use
+         xlink:href="#K"
+         id="use174" />
+    </clipPath>
+    <clipPath
+       id="clipPath180">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#K"
+         id="use178" />
+    </clipPath>
+    <use
+       id="L"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath185">
+      <use
+         xlink:href="#L"
+         id="use183" />
+    </clipPath>
+    <clipPath
+       id="clipPath189">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#L"
+         id="use187" />
+    </clipPath>
+    <use
+       id="M"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath194">
+      <use
+         xlink:href="#M"
+         id="use192" />
+    </clipPath>
+    <clipPath
+       id="clipPath198">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#M"
+         id="use196" />
+    </clipPath>
+    <use
+       id="N"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath203">
+      <use
+         xlink:href="#N"
+         id="use201" />
+    </clipPath>
+    <clipPath
+       id="clipPath207">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#N"
+         id="use205" />
+    </clipPath>
+    <use
+       id="O"
+       fill="none"
+       xlink:href="#U" />
+    <clipPath
+       id="clipPath212">
+      <use
+         xlink:href="#O"
+         id="use210" />
+    </clipPath>
+    <clipPath
+       id="clipPath216">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#O"
+         id="use214" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path229" />
+    <clipPath
+       id="clipPath221">
+      <use
+         xlink:href="#path229"
+         id="use219" />
+    </clipPath>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y2="40"
+       y1="280"
+       xlink:href="#Q"
+       id="P"
+       gradientTransform="matrix(.175 0 0 .175 302.79999 215.99997)" />
+    <linearGradient
+       id="Q">
+      <stop
+         stop-color="#151515"
+         id="stop224" />
+      <stop
+         offset="1"
+         stop-color="#222"
+         id="stop226" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y2="90"
+       y1="230"
+       xlink:href="#Q"
+       id="R"
+       gradientTransform="matrix(.375 0 0 .375 298 16)" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y2="90"
+       y1="230"
+       xlink:href="#Q"
+       id="S"
+       gradientTransform="matrix(.25 0 0 .25 299.99999 131.99999)" />
+    <clipPath
+       id="clipPath233">
+      <rect
+         height="20"
+         rx="4"
+         y="78"
+         x="434"
+         width="20"
+         color="#bebebe"
+         id="rect231" />
+    </clipPath>
+    <clipPath
+       id="clipPath237">
+      <rect
+         height="22"
+         rx="4"
+         y="77"
+         x="433"
+         width="22"
+         color="#bebebe"
+         id="rect235" />
+    </clipPath>
+    <clipPath
+       id="clipPath241">
+      <rect
+         height="22"
+         rx="5"
+         y="77"
+         x="433"
+         width="22"
+         color="#bebebe"
+         id="rect239" />
+    </clipPath>
+    <clipPath
+       id="clipPath245">
+      <rect
+         height="30"
+         rx="6"
+         y="29"
+         x="433"
+         width="30"
+         color="#bebebe"
+         id="rect243" />
+    </clipPath>
+    <clipPath
+       id="clipPath249">
+      <rect
+         transform="matrix(0 -1 1 0 0 0)"
+         height="60"
+         rx="12.5"
+         y="142"
+         x="306"
+         width="60"
+         fill="url(#S)"
+         color="#bebebe"
+         id="rect247" />
+    </clipPath>
+    <clipPath
+       id="clipPath253">
+      <rect
+         height="90"
+         rx="18.75"
+         y="31"
+         x="307"
+         width="90"
+         fill="url(#R)"
+         color="#bebebe"
+         id="rect251" />
+    </clipPath>
+    <clipPath
+       id="clipPath257">
+      <rect
+         height="30"
+         rx="4"
+         y="29"
+         x="433"
+         width="30"
+         opacity="0.2"
+         fill="#6d6d6d"
+         color="#bebebe"
+         id="rect255" />
+    </clipPath>
+    <clipPath
+       id="clipPath261">
+      <rect
+         height="22"
+         rx="3"
+         y="77"
+         x="433"
+         width="22"
+         opacity="0.2"
+         fill="#6d6d6d"
+         color="#bebebe"
+         id="rect259" />
+    </clipPath>
+    <clipPath
+       id="clipPath265">
+      <path
+         d="m 144 70 c -49.706 0 -90 40.29 -90 90 0 49.706 40.29 90 90 90 49.706 0 90 -40.29 90 -90 0 -49.706 -40.29 -90 -90 -90 z m 0 32.19 c 32.03 0 58 25.967 58 58 0 32.03 -25.967 58 -58 58 -32.03 0 -58 -25.967 -58 -58 0 -32.03 25.967 -58 58 -58 z"
+         id="path263" />
+    </clipPath>
+    <clipPath
+       id="clipPath269">
+      <path
+         d="m 152 204 a 8 8 0 1 1 -16 0 8 8 0 1 1 16 0 z"
+         id="path267" />
+    </clipPath>
+    <clipPath
+       id="clipPath273">
+      <rect
+         height="16"
+         rx="3"
+         y="116"
+         x="432"
+         width="16"
+         color="#bebebe"
+         id="rect271" />
+    </clipPath>
+    <clipPath
+       id="clipPath277">
+      <path
+         d="m 145 215 c 33.14 0 60 -26.863 60 -60 0 -33.14 -26.863 -60 -60 -60 -33.14 0 -60 26.863 -60 60 0 12.507 3.829 24.11 10.375 33.719 l -6.375 22.281 22.281 -6.375 c 9.612 6.547 21.21 10.375 33.719 10.375 z"
+         id="path275" />
+    </clipPath>
+    <clipPath
+       id="clipPath281">
+      <path
+         d="m 98.03 23.19 c -41.492 1.052 -74.844 35.07 -74.844 76.81 0 42.41 34.406 76.81 76.81 76.81 42.41 0 76.81 -34.406 76.81 -76.81 0 -42.41 -34.406 -76.81 -76.81 -76.81 -0.663 0 -1.31 -0.017 -1.969 0 z m 1.969 27.469 c 27.24 0 49.34 22.1 49.34 49.34 0 27.24 -22.1 49.34 -49.34 49.34 -27.24 0 -49.34 -22.1 -49.34 -49.34 0 -27.24 22.1 -49.34 49.34 -49.34 z"
+         id="path279" />
+    </clipPath>
+    <clipPath
+       id="clipPath285">
+      <rect
+         height="16"
+         rx="2"
+         y="116"
+         x="432"
+         width="16"
+         opacity="0.2"
+         fill="#6d6d6d"
+         color="#bebebe"
+         id="rect283" />
+    </clipPath>
+    <clipPath
+       id="clipPath289">
+      <rect
+         height="240"
+         rx="50"
+         y="36"
+         x="24"
+         width="240"
+         fill="#986767"
+         color="#bebebe"
+         id="rect287" />
+    </clipPath>
+    <clipPath
+       id="clipPath293">
+      <rect
+         transform="rotate(90)"
+         height="42"
+         rx="9"
+         y="223"
+         x="307"
+         width="42"
+         fill="url(#P)"
+         color="#bebebe"
+         id="rect291" />
+    </clipPath>
+    <path
+       id="U"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       color="#000" />
+    <linearGradient
+       id="linearGradient4033"
+       x1="-27"
+       x2="-24"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#54bc16"
+         stop-opacity="1"
+         id="stop296" />
+      <stop
+         offset="1"
+         stop-color="#5cce18"
+         stop-opacity="1"
+         id="stop298" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath303">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path229"
+         id="use301" />
+    </clipPath>
+    <path
+       id="path3494-0"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath308">
+      <use
+         xlink:href="#path3494-0"
+         id="use306" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath312">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3494-0"
+         id="use310" />
+    </clipPath>
+    <path
+       id="path3475-7"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath317">
+      <use
+         xlink:href="#path3475-7"
+         id="use315" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath321">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3475-7"
+         id="use319" />
+    </clipPath>
+    <path
+       id="path3456-2"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath326">
+      <use
+         xlink:href="#path3456-2"
+         id="use324" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath330">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3456-2"
+         id="use328" />
+    </clipPath>
+    <path
+       id="path3437-6"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath335">
+      <use
+         xlink:href="#path3437-6"
+         id="use333" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath339">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3437-6"
+         id="use337" />
+    </clipPath>
+    <path
+       id="path3418-12"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath344">
+      <use
+         xlink:href="#path3418-12"
+         id="use342" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath348">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3418-12"
+         id="use346" />
+    </clipPath>
+    <path
+       id="path3399-2"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath353">
+      <use
+         xlink:href="#path3399-2"
+         id="use351" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath357">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3399-2"
+         id="use355" />
+    </clipPath>
+    <linearGradient
+       y2="31.619"
+       x2="0"
+       y1="299.81"
+       gradientTransform="matrix(0.11931818,0,0,0.11931818,414.13636,48.22727)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3885-17"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath362">
+      <rect
+         y="53"
+         x="417"
+         height="30"
+         width="30"
+         visibility="visible"
+         fill="url(#linearGradient3885-17)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="7"
+         id="rect360" />
+    </clipPath>
+    <linearGradient
+       y2="28.571"
+       x2="0"
+       y1="302.86"
+       gradientTransform="matrix(0.0875,0,0,0.0875,414.9,97.5)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3875-7"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath367">
+      <rect
+         width="22"
+         height="22"
+         x="417"
+         y="101"
+         visibility="visible"
+         fill="url(#linearGradient3875-7)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="5"
+         id="rect365" />
+    </clipPath>
+    <linearGradient
+       y2="28"
+       x2="0"
+       y1="124"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4350-1"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath372">
+      <rect
+         y="32"
+         x="292"
+         height="88"
+         width="88"
+         visibility="visible"
+         fill="url(#linearGradient4350-1)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="18"
+         id="rect370" />
+    </clipPath>
+    <linearGradient
+       y2="140"
+       x2="0"
+       y1="204"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4191-58"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath377">
+      <rect
+         width="60"
+         height="60"
+         x="290"
+         y="142"
+         visibility="visible"
+         fill="url(#linearGradient4191-58)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="12.5"
+         id="rect375" />
+    </clipPath>
+    <linearGradient
+       y2="40"
+       x2="0"
+       y1="280"
+       gradientTransform="translate(0,-4)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3866-5"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath382">
+      <rect
+         width="220"
+         height="220"
+         x="34"
+         y="46"
+         visibility="visible"
+         fill="url(#linearGradient3866-5)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="50"
+         id="rect380" />
+    </clipPath>
+    <linearGradient
+       y2="40"
+       x2="0"
+       y1="280"
+       gradientTransform="matrix(0.06666667,0,0,0.06666667,302.4,209.33333)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3859-1"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath387">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         y="212"
+         x="304"
+         height="16"
+         width="16"
+         visibility="visible"
+         fill="url(#linearGradient3859-1)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="3"
+         id="rect385" />
+    </clipPath>
+    <linearGradient
+       y2="40"
+       x2="0"
+       y1="291.43"
+       gradientTransform="matrix(0.11931818,0,0,0.11931818,430.13636,32.227267)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4093-0"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath392">
+      <rect
+         y="37"
+         x="433"
+         height="30"
+         width="30"
+         visibility="visible"
+         fill="url(#linearGradient4093-0)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="6"
+         id="rect390" />
+    </clipPath>
+    <linearGradient
+       y2="40"
+       x2="0"
+       y1="291.43"
+       gradientTransform="matrix(0.0875,0,0,0.0875,430.9,81.499996)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4048-5"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath397">
+      <rect
+         width="22"
+         height="22"
+         x="433"
+         y="85"
+         visibility="visible"
+         fill="url(#linearGradient4048-5)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="4"
+         id="rect395" />
+    </clipPath>
+    <linearGradient
+       y2="40"
+       x2="0"
+       y1="280"
+       gradientTransform="matrix(0.175,0,0,0.175,302.79999,215.99997)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4895-4"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath402">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         width="42"
+         height="42"
+         x="307"
+         y="223"
+         visibility="visible"
+         fill="url(#linearGradient4895-4)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="9"
+         id="rect400" />
+    </clipPath>
+    <linearGradient
+       id="outerBackgroundGradient-3">
+      <stop
+         stop-color="#620000"
+         stop-opacity="1"
+         id="stop404" />
+      <stop
+         offset="1"
+         stop-color="#dd0f0f"
+         stop-opacity="1"
+         id="stop406" />
+    </linearGradient>
+    <path
+       id="path3513-2-8"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath412">
+      <use
+         xlink:href="#path3513-2-8"
+         id="use410" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath416">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3513-2-8"
+         id="use414" />
+    </clipPath>
+    <path
+       id="path3494-4-6"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath421">
+      <use
+         xlink:href="#path3494-4-6"
+         id="use419" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath425">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3494-4-6"
+         id="use423" />
+    </clipPath>
+    <path
+       id="path3475-8-6"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath430">
+      <use
+         xlink:href="#path3475-8-6"
+         id="use428" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath434">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3475-8-6"
+         id="use432" />
+    </clipPath>
+    <path
+       id="path3456-8-1"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath439">
+      <use
+         xlink:href="#path3456-8-1"
+         id="use437" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath443">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3456-8-1"
+         id="use441" />
+    </clipPath>
+    <path
+       id="path3437-4-8"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath448">
+      <use
+         xlink:href="#path3437-4-8"
+         id="use446" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath452">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3437-4-8"
+         id="use450" />
+    </clipPath>
+    <path
+       id="path3418-1-4"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath457">
+      <use
+         xlink:href="#path3418-1-4"
+         id="use455" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath461">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3418-1-4"
+         id="use459" />
+    </clipPath>
+    <path
+       id="path3399-0-2"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath466">
+      <use
+         xlink:href="#path3399-0-2"
+         id="use464" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath470">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3399-0-2"
+         id="use468" />
+    </clipPath>
+    <linearGradient
+       y2="31.619"
+       x2="0"
+       y1="299.81"
+       gradientTransform="matrix(0.11931818,0,0,0.11931818,414.13636,48.22727)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3885-1-0"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath475">
+      <rect
+         y="53"
+         x="417"
+         height="30"
+         width="30"
+         visibility="visible"
+         fill="url(#linearGradient3885-1-0)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="7"
+         id="rect473" />
+    </clipPath>
+    <linearGradient
+       y2="28.571"
+       x2="0"
+       y1="302.86"
+       gradientTransform="matrix(0.0875,0,0,0.0875,414.9,97.5)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3875-1-8"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath480">
+      <rect
+         width="22"
+         height="22"
+         x="417"
+         y="101"
+         visibility="visible"
+         fill="url(#linearGradient3875-1-8)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="5"
+         id="rect478" />
+    </clipPath>
+    <linearGradient
+       y2="28"
+       x2="0"
+       y1="124"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4350-4-9"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath485">
+      <rect
+         y="32"
+         x="292"
+         height="88"
+         width="88"
+         visibility="visible"
+         fill="url(#linearGradient4350-4-9)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="18"
+         id="rect483" />
+    </clipPath>
+    <linearGradient
+       y2="140"
+       x2="0"
+       y1="204"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4191-5-4"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath490">
+      <rect
+         width="60"
+         height="60"
+         x="290"
+         y="142"
+         visibility="visible"
+         fill="url(#linearGradient4191-5-4)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="12.5"
+         id="rect488" />
+    </clipPath>
+    <linearGradient
+       y2="40"
+       x2="0"
+       y1="280"
+       gradientTransform="translate(0,-4)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3866-0-3"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath495">
+      <rect
+         width="220"
+         height="220"
+         x="34"
+         y="46"
+         visibility="visible"
+         fill="url(#linearGradient3866-0-3)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="50"
+         id="rect493" />
+    </clipPath>
+    <linearGradient
+       y2="40"
+       x2="0"
+       y1="280"
+       gradientTransform="matrix(0.06666667,0,0,0.06666667,302.4,209.33333)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3859-5-2"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath500">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         y="212"
+         x="304"
+         height="16"
+         width="16"
+         visibility="visible"
+         fill="url(#linearGradient3859-5-2)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="3"
+         id="rect498" />
+    </clipPath>
+    <linearGradient
+       y2="40"
+       x2="0"
+       y1="291.43"
+       gradientTransform="matrix(0.11931818,0,0,0.11931818,430.13636,32.227267)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4093-5-4"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath505">
+      <rect
+         y="37"
+         x="433"
+         height="30"
+         width="30"
+         visibility="visible"
+         fill="url(#linearGradient4093-5-4)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="6"
+         id="rect503" />
+    </clipPath>
+    <linearGradient
+       y2="40"
+       x2="0"
+       y1="291.43"
+       gradientTransform="matrix(0.0875,0,0,0.0875,430.9,81.499996)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4048-9-9"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath510">
+      <rect
+         width="22"
+         height="22"
+         x="433"
+         y="85"
+         visibility="visible"
+         fill="url(#linearGradient4048-9-9)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="4"
+         id="rect508" />
+    </clipPath>
+    <linearGradient
+       y2="40"
+       x2="0"
+       y1="280"
+       gradientTransform="matrix(0.175,0,0,0.175,302.79999,215.99997)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4895-9-1"
+       xlink:href="#outerBackgroundGradient-3" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath515">
+      <rect
+         transform="matrix(0,1,-1,0,0,0)"
+         width="42"
+         height="42"
+         x="307"
+         y="223"
+         visibility="visible"
+         fill="url(#linearGradient4895-9-1)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="9"
+         id="rect513" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath519">
+      <rect
+         y="223"
+         x="307"
+         height="42"
+         width="42"
+         transform="matrix(0,1,-1,0,0,0)"
+         visibility="visible"
+         fill="url(#linearGradient4895-9)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="9"
+         id="rect517" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient4895-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.175,0,0,0.175,302.79999,215.99997)"
+       y1="280"
+       x2="0"
+       y2="40" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath524">
+      <rect
+         y="85"
+         x="433"
+         height="22"
+         width="22"
+         visibility="visible"
+         fill="url(#linearGradient4048-9)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="4"
+         id="rect522" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient4048-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0875,0,0,0.0875,430.9,81.499996)"
+       y1="291.43"
+       x2="0"
+       y2="40" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath529">
+      <rect
+         width="30"
+         height="30"
+         x="433"
+         y="37"
+         visibility="visible"
+         fill="url(#linearGradient4093-5)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="6"
+         id="rect527" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient4093-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.11931818,0,0,0.11931818,430.13636,32.227267)"
+       y1="291.43"
+       x2="0"
+       y2="40" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath534">
+      <rect
+         width="16"
+         height="16"
+         x="304"
+         y="212"
+         transform="matrix(0,1,-1,0,0,0)"
+         visibility="visible"
+         fill="url(#linearGradient3859-5)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="3"
+         id="rect532" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient3859-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06666667,0,0,0.06666667,302.4,209.33333)"
+       y1="280"
+       x2="0"
+       y2="40" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath539">
+      <rect
+         y="46"
+         x="34"
+         height="220"
+         width="220"
+         visibility="visible"
+         fill="url(#linearGradient3866-0)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="50"
+         id="rect537" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient3866-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-4)"
+       y1="280"
+       x2="0"
+       y2="40" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath544">
+      <rect
+         y="142"
+         x="290"
+         height="60"
+         width="60"
+         visibility="visible"
+         fill="url(#linearGradient4191-5)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="12.5"
+         id="rect542" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient4191-5"
+       gradientUnits="userSpaceOnUse"
+       y1="204"
+       x2="0"
+       y2="140" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath549">
+      <rect
+         width="88"
+         height="88"
+         x="292"
+         y="32"
+         visibility="visible"
+         fill="url(#linearGradient4350-4)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="18"
+         id="rect547" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient4350-4"
+       gradientUnits="userSpaceOnUse"
+       y1="124"
+       x2="0"
+       y2="28" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath554">
+      <rect
+         y="101"
+         x="417"
+         height="22"
+         width="22"
+         visibility="visible"
+         fill="url(#linearGradient3875-1)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="5"
+         id="rect552" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient3875-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0875,0,0,0.0875,414.9,97.5)"
+       y1="302.86"
+       x2="0"
+       y2="28.571" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath559">
+      <rect
+         width="30"
+         height="30"
+         x="417"
+         y="53"
+         visibility="visible"
+         fill="url(#linearGradient3885-1)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="7"
+         id="rect557" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient3885-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.11931818,0,0,0.11931818,414.13636,48.22727)"
+       y1="299.81"
+       x2="0"
+       y2="31.619" />
+    <path
+       id="path4165-0"
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       opacity="0.2"
+       visibility="visible"
+       fill="#fff"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath565">
+      <use
+         xlink:href="#path4165-0"
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         id="use563" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath569">
+      <use
+         xlink:href="#path4165-0"
+         id="use567" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path3399-0"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath574">
+      <use
+         xlink:href="#path3399-0"
+         id="use572" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath578">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3399-0"
+         id="use576" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path3414-2"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath583">
+      <use
+         xlink:href="#path3414-2"
+         id="use581" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath587">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3414-2"
+         id="use585" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path3433-8"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath592">
+      <use
+         xlink:href="#path3433-8"
+         id="use590" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath596">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3433-8"
+         id="use594" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path3452-6"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath601">
+      <use
+         xlink:href="#path3452-6"
+         id="use599" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath605">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3452-6"
+         id="use603" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path3471-8"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath610">
+      <use
+         xlink:href="#path3471-8"
+         id="use608" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath614">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3471-8"
+         id="use612" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path3490-9"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath619">
+      <use
+         xlink:href="#path3490-9"
+         id="use617" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath623">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3490-9"
+         id="use621" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path3509-0"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath628">
+      <use
+         xlink:href="#path3509-0"
+         id="use626" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath632">
+      <rect
+         y="223"
+         x="307"
+         height="42"
+         width="42"
+         transform="matrix(0,1,-1,0,0,0)"
+         visibility="visible"
+         fill="url(#linearGradient4895)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="9"
+         id="rect630" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient4895"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.175,0,0,0.175,302.79999,215.99997)"
+       y1="280"
+       x2="0"
+       y2="40" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath637">
+      <rect
+         y="85"
+         x="433"
+         height="22"
+         width="22"
+         visibility="visible"
+         fill="url(#linearGradient4048)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="4"
+         id="rect635" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient4048"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0875,0,0,0.0875,430.9,81.499996)"
+       y1="291.43"
+       x2="0"
+       y2="40" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath642">
+      <rect
+         width="30"
+         height="30"
+         x="433"
+         y="37"
+         visibility="visible"
+         fill="url(#linearGradient4093)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="6"
+         id="rect640" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient4093"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.11931818,0,0,0.11931818,430.13636,32.227267)"
+       y1="291.43"
+       x2="0"
+       y2="40" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath647">
+      <rect
+         width="16"
+         height="16"
+         x="304"
+         y="212"
+         transform="matrix(0,1,-1,0,0,0)"
+         visibility="visible"
+         fill="url(#linearGradient3859)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="3"
+         id="rect645" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient3859"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06666667,0,0,0.06666667,302.4,209.33333)"
+       y1="280"
+       x2="0"
+       y2="40" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath652">
+      <rect
+         y="46"
+         x="34"
+         height="220"
+         width="220"
+         visibility="visible"
+         fill="url(#linearGradient3866)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="50"
+         id="rect650" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient3866"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-4)"
+       y1="280"
+       x2="0"
+       y2="40" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath657">
+      <rect
+         y="142"
+         x="290"
+         height="60"
+         width="60"
+         visibility="visible"
+         fill="url(#linearGradient4191)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="12.5"
+         id="rect655" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient4191"
+       gradientUnits="userSpaceOnUse"
+       y1="204"
+       x2="0"
+       y2="140" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath662">
+      <rect
+         width="88"
+         height="88"
+         x="292"
+         y="32"
+         visibility="visible"
+         fill="url(#linearGradient4350)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="18"
+         id="rect660" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient4350"
+       gradientUnits="userSpaceOnUse"
+       y1="124"
+       x2="0"
+       y2="28" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath667">
+      <rect
+         y="101"
+         x="417"
+         height="22"
+         width="22"
+         visibility="visible"
+         fill="url(#linearGradient3875)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="5"
+         id="rect665" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient3875"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0875,0,0,0.0875,414.9,97.5)"
+       y1="302.86"
+       x2="0"
+       y2="28.571" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath672">
+      <rect
+         width="30"
+         height="30"
+         x="417"
+         y="53"
+         visibility="visible"
+         fill="url(#linearGradient3885)"
+         display="inline"
+         fill-rule="nonzero"
+         stroke="none"
+         fill-opacity="1"
+         color="#bebebe"
+         rx="7"
+         id="rect670" />
+    </clipPath>
+    <linearGradient
+       xlink:href="#outerBackgroundGradient-3"
+       id="linearGradient3885"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.11931818,0,0,0.11931818,414.13636,48.22727)"
+       y1="299.81"
+       x2="0"
+       y2="31.619" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath677">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3509-0"
+         id="use675" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path4188"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath682">
+      <use
+         xlink:href="#path4188"
+         id="use680" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath686">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path4188"
+         id="use684" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path3414"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath691">
+      <use
+         xlink:href="#path3414"
+         id="use689" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath695">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3414"
+         id="use693" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path3433"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath700">
+      <use
+         xlink:href="#path3433"
+         id="use698" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath704">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3433"
+         id="use702" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path3452"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath709">
+      <use
+         xlink:href="#path3452"
+         id="use707" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath713">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3452"
+         id="use711" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path3471"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath718">
+      <use
+         xlink:href="#path3471"
+         id="use716" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath722">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3471"
+         id="use720" />
+    </clipPath>
+    <path
+       d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+       id="path3490"
+       visibility="visible"
+       fill="none"
+       display="inline"
+       fill-rule="nonzero"
+       stroke="none"
+       fill-opacity="1"
+       color="#000" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath727">
+      <use
+         xlink:href="#path3490"
+         id="use725" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath731">
+      <use
+         transform="matrix(8,0,0,8,-2141.5757,-54.424243)"
+         xlink:href="#path3490"
+         id="use729" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath735">
+      <path
+         d="m 296 26 a 10 10 0 1 1 -20 0 10 10 0 1 1 20 0 z"
+         id="path733" />
+    </clipPath>
+    <clipPath
+       id="clipPath741">
+      <g
+         transform="translate(0,-1004.3622)"
+         id="g739">
+        <path
+           fill="#1890d0"
+           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
+           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
+           id="path737" />
+      </g>
+    </clipPath>
+    <clipPath
+       id="clipPath747">
+      <g
+         transform="translate(0,-1004.3622)"
+         id="g745">
+        <path
+           fill="#1890d0"
+           transform="matrix(15.333333,0,0,11.5,414.99999,878.8622)"
+           d="m -24 13 c 0 1.105 -0.672 2 -1.5 2 -0.828 0 -1.5 -0.895 -1.5 -2 0 -1.105 0.672 -2 1.5 -2 0.828 0 1.5 0.895 1.5 2 z"
+           id="path743" />
+      </g>
+    </clipPath>
+  </defs>
+  <g
+     id="g757">
+    <path
+       d="m 25 2 c -12.703 0 -23 10.297 -23 23 0 6.367 2.601 12.12 6.781 16.281 4.085 3.712 9.514 5.969 15.469 5.969 c 12.703 0 23 -10.297 23 -23 0 -5.954 -2.256 -11.384 -5.969 -15.469 c -4.165 -4.181 -9.914 -6.781 -16.281 -6.781 z m 16.281 6.781 c 3.854 4.113 6.219 9.637 6.219 15.719 c 0 12.703 -10.297 23 -23 23 c -6.081 0 -11.606 -2.364 -15.719 -6.219 4.16 4.144 9.883 6.719 16.219 6.719 12.703 0 23 -10.297 23 -23 0 -6.335 -2.575 -12.06 -6.719 -16.219 z"
+       transform="scale(0.28222223,0.28222223)"
+       opacity="0.05"
+       fill="#000"
+       stroke="none"
+       fill-opacity="1"
+       id="path751" />
+    <path
+       d="m 41.28 8.781 c 3.712 4.085 5.969 9.514 5.969 15.469 c 0 12.703 -10.297 23 -23 23 -5.954 0 -11.384 -2.256 -15.469 -5.969 c 4.113 3.854 9.637 6.219 15.719 6.219 c 12.703 0 23 -10.297 23 -23 0 -6.081 -2.364 -11.606 -6.219 -15.719 z"
+       transform="scale(0.28222223,0.28222223)"
+       opacity="0.1"
+       fill="#000"
+       stroke="none"
+       fill-opacity="1"
+       id="path753" />
+    <path
+       transform="matrix(4.3274074,0,0,3.2455556,117.19278,-35.348334)"
+       d="m -24 13 a 1.5 2 0 1 1 -3 0 1.5 2 0 1 1 3 0 z"
+       opacity="0.2"
+       fill="#000"
+       stroke="none"
+       fill-opacity="1"
+       id="path755" />
+  </g>
+  <g
+     id="g763">
+    <path
+       d="m -24 13 a 1.5 2 0 1 1 -3 0 1.5 2 0 1 1 3 0 z"
+       transform="matrix(0,-4.3274075,3.2455556,0,-35.418894,-103.57556)"
+       fill="url(#linearGradient4033)"
+       stroke="none"
+       fill-opacity="1"
+       id="path759" />
+    <path
+       d="m 40.03 7.531 c 3.712 4.085 5.969 9.514 5.969 15.469 c 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 c 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.297 23 -23 c 0 -6.462 -2.677 -12.291 -6.969 -16.469 z"
+       transform="scale(0.28222223,0.28222223)"
+       opacity="0.1"
+       fill="#000"
+       stroke="none"
+       fill-opacity="1"
+       id="path761" />
+  </g>
+  <g
+     id="g777">
+    <g
+       transform="translate(-0.49401162,2.4480416)"
+       opacity="0.1"
+       fill="#000"
+       id="g769">
+      <path
+         d="m 4.163 2.35 0 2.822 1.693 0 c 0 0.847 -0.564 1.129 -0.564 1.129 l 0 0.564 c 0 0 1.693 -0.564 1.693 -1.976 l 0 -2.54 m -2.822 0"
+         fill="#000"
+         stroke="none"
+         fill-opacity="1"
+         id="path765" />
+      <path
+         d="m 8.114 2.35 0 2.822 1.693 0 c 0 0.847 -0.564 1.129 -0.564 1.129 l 0 0.564 c 0 0 1.693 -0.564 1.693 -1.976 l 0 -2.54 m -2.822 0"
+         fill="#000"
+         stroke="none"
+         fill-opacity="1"
+         id="path767" />
+    </g>
+    <g
+       transform="translate(-0.7762385,2.1658171)"
+       id="g775">
+      <path
+         d="m 4.163 2.35 0 2.822 1.693 0 c 0 0.847 -0.564 1.129 -0.564 1.129 l 0 0.564 c 0 0 1.693 -0.564 1.693 -1.976 l 0 -2.54 m -2.822 0"
+         fill="#f9f9f9"
+         stroke="none"
+         fill-opacity="1"
+         id="path771" />
+      <path
+         d="m 8.114 2.35 0 2.822 1.693 0 c 0 0.847 -0.564 1.129 -0.564 1.129 l 0 0.564 c 0 0 1.693 -0.564 1.693 -1.976 l 0 -2.54 m -2.822 0"
+         fill="#f9f9f9"
+         stroke="none"
+         fill-opacity="1"
+         id="path773" />
+    </g>
+  </g>
+</svg>

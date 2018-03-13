@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   id="svg6041"
+   version="1.1"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="apps.cn.kugou.hd.svg">
+  <defs
+     id="defs6043" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.7578125"
+     inkscape:cx="23.843284"
+     inkscape:cy="6.3052917"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-nodes="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="743"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6589" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata6046">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1004.3622)">
+    <g
+       id="g6716"
+       transform="matrix(1.0806929,0,0,1.1077351,-1.9365137,-111.30629)">
+      <g
+         transform="matrix(1.0249151,0,0,1,-0.59792774,0)"
+         id="g6705">
+        <circle
+           r="21"
+           cy="1029.8801"
+           cx="23.998566"
+           id="circle6703"
+           style="opacity:0.05;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <circle
+           style="opacity:0.1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="circle6701"
+           cx="23.998566"
+           cy="1029.3672"
+           r="21" />
+        <ellipse
+           ry="21"
+           rx="20.759068"
+           cy="1028.9055"
+           cx="23.998566"
+           id="circle6699"
+           style="opacity:0.15;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      </g>
+      <g
+         id="g6711">
+        <circle
+           style="fill:#eaf6fc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="path6656"
+           cx="23.998566"
+           cy="1028.3541"
+           r="21" />
+        <circle
+           r="18"
+           cy="1028.3541"
+           cx="23.998566"
+           id="circle6658"
+           style="fill:#018acd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:#eef7fb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 28.882812,13.978516 c -2.439931,2.050968 -6.885869,5.745779 -7.548828,6.296875 L 22.001953,14 h -4.988281 l -2.023438,19 h 4.988282 l 0.693359,-6.503906 6.574219,6.474609 L 33.029297,33 24.636719,24.609375 c -0.62863,-0.5969 -0.632899,-1.005734 0.04883,-1.615234 L 35.013672,14 c 0,0 -5.099629,-0.01953 -6.13086,-0.01953 z"
+           transform="translate(0,1004.3622)"
+           id="rect6660"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
