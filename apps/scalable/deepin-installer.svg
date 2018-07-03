@@ -33,12 +33,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="740"
+     inkscape:window-height="691"
      id="namedview63"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24.813559"
-     inkscape:cy="33.13286"
+     inkscape:cx="-9.1525425"
+     inkscape:cy="32.319301"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -180,20 +180,20 @@
   </g>
   <g
      id="g51"
-     style="fill:#ff0000"
-     transform="matrix(1.058328,0,0,0.8719636,-1.050288,4.2498322)">
+     style="fill:#ff008b;fill-opacity:1"
+     transform="matrix(1.058328,0,0,0.99060767,-2.374167,0.99947836)">
     <g
        clip-path="url(#clipPath-935664152)"
        id="g49"
-       style="fill:#ff0000">
+       style="fill:#ff008b;fill-opacity:1">
       <!-- color: #d0d7da -->
       <g
          id="g47"
-         style="fill:#ff0000">
+         style="fill:#ff008b;fill-opacity:1">
         <path
            d="m 19,12 h 10 v 16 h 4.996 L 24,36 14,28 h 5 m 0,-16"
            id="path45"
-           style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ff008b;fill-opacity:1;fill-rule:nonzero;stroke:none"
            inkscape:connector-curvature="0" />
       </g>
     </g>
