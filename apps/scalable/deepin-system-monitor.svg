@@ -11,7 +11,7 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg73"
-   sodipodi:docname="deepin-feedback.svg"
+   sodipodi:docname="deepin-system-monitor.svg"
    inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
   <metadata
      id="metadata77">
@@ -37,9 +37,9 @@
      inkscape:window-height="691"
      id="namedview75"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24.40678"
-     inkscape:cy="22.983051"
+     inkscape:zoom="6.9532167"
+     inkscape:cx="10.420068"
+     inkscape:cy="26.623927"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -142,7 +142,8 @@
   <g
      id="g31" />
   <g
-     id="g158">
+     id="g158"
+     transform="matrix(1.0208468,0,0,1.0216009,-0.55328999,-0.51189519)">
     <g
        transform="matrix(1.1016949,0,0,1.1016949,84.825624,7.5202529)"
        id="g141">

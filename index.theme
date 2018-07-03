@@ -1,5 +1,6 @@
 [Icon Theme]
 Name=Marea
+
 Comment=Icons for Deepin
 
 Directories=actions/22,actions/64,apps/scalable,symbolic,categories/scalable,categories/symbolic,devices/symbolic,devices/scalable,emblems/scalable,emblems/symbolic,emotes/scalable,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status/scalable,status/symbolic,status
