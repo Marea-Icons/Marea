@@ -3,7 +3,7 @@ Name=Marea
 
 Comment=Icons for Deepin
 
-Directories=actions/22,actions/64,apps/scalable,symbolic,categories/scalable,categories/symbolic,devices/symbolic,devices/scalable,emblems/scalable,emblems/symbolic,emotes/scalable,mimetypes/scalable,mimetypes/symbolic,places/scalable,places/symbolic,status/scalable,status/symbolic,status
+Directories=actions/22,actions/64,apps/scalable,devices/scalable,emblems/24,mimetypes/scalable,places/scalable,status
 
 [actions/22]
 Size=22

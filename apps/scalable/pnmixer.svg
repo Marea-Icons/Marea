@@ -10,8 +10,8 @@
    viewBox="0 0 48 48"
    version="1.1"
    id="svg73"
-   sodipodi:docname="DC++.svg"
-   inkscape:version="0.92.0 r15299">
+   sodipodi:docname="pnmixer.svg"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
   <metadata
      id="metadata77">
     <rdf:RDF>
@@ -32,13 +32,13 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="872"
+     inkscape:window-width="1360"
+     inkscape:window-height="691"
      id="namedview75"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24.81356"
-     inkscape:cy="24"
+     inkscape:cx="25.22034"
+     inkscape:cy="22.983051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -88,7 +88,7 @@
   </defs>
   <path
      inkscape:connector-curvature="0"
-     style="fill:#808080;fill-opacity:1;stroke-width:0.99556869"
+     style="fill:#cccccc;fill-opacity:1;stroke-width:0.99556869"
      id="path27"
      d="M 24.20339,1 C 36.794057,1 47,11.297 47,24 47,36.703 36.794057,47 24.20339,47 11.612723,47 1.4067797,36.703 1.4067797,24 1.4067797,11.297 11.612723,1 24.20339,1 Z" />
   <g

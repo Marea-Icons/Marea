@@ -34,12 +34,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="695"
+     inkscape:window-height="691"
      id="namedview71"
      showgrid="false"
      inkscape:zoom="7.3845253"
-     inkscape:cx="-10.464399"
-     inkscape:cy="24.586748"
+     inkscape:cx="-10.193562"
+     inkscape:cy="23.909656"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -167,7 +167,7 @@
      style="fill:#0c5c51;fill-opacity:1" />
   <g
      id="g888"
-     transform="matrix(0.77037073,0,0,0.6589231,5.1770139,9.1063422)">
+     transform="matrix(0.78570342,0,0,0.68038887,4.4692569,8.0940167)">
     <image
        id="image862"
        transform="matrix(0.24,0,0,0.24,2,3)"
@@ -197,11 +197,11 @@
            style="fill:#ffffff" />
         <polygon
            id="polygon870"
-           points="17,31 23,31 23,37 33,28 23,19 23,25 17,25 "
+           points="23,31 23,37 33,28 23,19 23,25 17,25 17,31 "
            style="fill:#009ee8" />
         <polygon
            id="polygon872"
-           points="29,19 29,22.832 34.742,28 29,33.168 29,37 39,28 "
+           points="29,22.832 34.742,28 29,33.168 29,37 39,28 29,19 "
            style="fill:#f39800" />
         <g
            id="g882">

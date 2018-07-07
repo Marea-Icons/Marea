@@ -12,7 +12,7 @@
    version="1.1"
    id="svg73"
    sodipodi:docname="scanner.svg"
-   inkscape:version="0.92.0 r15299">
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
   <metadata
      id="metadata77">
     <rdf:RDF>
@@ -34,12 +34,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="740"
+     inkscape:window-height="691"
      id="namedview75"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
+     inkscape:cx="24.40678"
+     inkscape:cy="22.983051"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -120,7 +120,7 @@
        id="path69" />
   </g>
   <g
-     transform="matrix(0.74308653,0,0,0.7762712,7.0984657,4.5555755)"
+     transform="matrix(0.74308653,0,0,0.7762712,6.1154149,3.7420162)"
      style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
      id="Page-1">
     <g
@@ -187,11 +187,11 @@
       <polygon
          style="fill:#eeeeee"
          id="Path-16"
-         points="14,35 16.5,21 31.5,21 35,35 " />
+         points="31.5,21 35,35 14,35 16.5,21 " />
       <polygon
          style="opacity:0.19757702;fill:#0046ba"
          id="polygon25"
-         points="10,27 12,18 36,18 38,27 " />
+         points="36,18 38,27 10,27 12,18 " />
       <rect
          style="fill:#00376f"
          id="Rectangle-6"
