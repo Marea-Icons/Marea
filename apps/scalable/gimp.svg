@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   inkscape:version="0.92.1 r15371"
    width="100%"
    height="100%"
    sodipodi:docname="gimp.svg">
@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="658"
+     inkscape:window-height="687"
      id="namedview93"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="13.934596"
-     inkscape:cy="21.2957"
+     inkscape:cx="17.647568"
+     inkscape:cy="16.103998"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -99,7 +99,7 @@
   <path
      inkscape:connector-curvature="0"
      id="path31-6"
-     style="fill:#ffab00;fill-opacity:1;stroke-width:0.97184074"
+     style="fill:#f59f6a;fill-opacity:1;stroke-width:0.97184074"
      d="m 24.025673,1.5180247 c 12.449424,0 22.540878,10.0996733 22.540878,22.5592413 0,12.459567 -10.091454,22.559242 -22.540878,22.559242 -12.449424,0 -22.5408756,-10.099675 -22.5408756,-22.559242 0,-12.459568 10.0914516,-22.5592413 22.5408756,-22.5592413 z" />
   <g
      style="stroke-width:0.992351"
